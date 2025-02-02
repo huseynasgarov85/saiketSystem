@@ -11,7 +11,7 @@ public class TextAnalyzer {
     public static void textTask() {
         Scanner scanner = new Scanner(System.in);
 
-        // Kullanıcıdan dosya yolunu al
+
         System.out.print("Enter file path: ");
         String path = scanner.nextLine();
 
